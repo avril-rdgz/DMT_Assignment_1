@@ -3,7 +3,7 @@
 # https://drive.google.com/file/d/1JELbc7aVMeOimwAIRj63SiDZRukeLNGA/view
 
 FILE_ID="1JELbc7aVMeOimwAIRj63SiDZRukeLNGA"
-OUTPUT_DIR="data"
+OUTPUT_DIR="data/raw"
 OUTPUT_FILE="${OUTPUT_DIR}/dataset_mood_smartphone.csv"
 VENV_DIR=".venv"
 
