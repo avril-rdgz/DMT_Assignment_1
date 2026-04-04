@@ -1,9 +1,9 @@
 # DMT_Assignment_1
 
 Task 1 → Thursday, 2 April
-a. EDA → Margherita 
-b. Cleaning → Milou
-c. Engineering → Avril
+- A: EDA → Margherita ✅
+- B: Cleaning → Milou ✅
+- C: Engineering → Avril ✅
 
 Task 2  → Friday, 10 April
 - Classify into: 0-5 bad day, 5-8 okay day, 9-10 good day
