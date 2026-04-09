@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 notebook
+scikit-learn
+tensorflow
+keras-tuner
+tensorboard
